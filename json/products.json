@@ -1,0 +1,64 @@
+{
+	"products": [{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-1.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Brown Leather Jacket",
+			"price": "379"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-2.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Bright Orange Jacket",
+			"price": "427"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-10.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Bright Green Jacket",
+			"price": "479"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-4.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "SUPREME Bomber B&W",
+			"price": "605"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-6.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Bright Yellow Jacket",
+			"price": "512"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-9.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Multi-color Gore-Tex SUPREME Jacket",
+			"price": "358"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-11.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Navy Green Leather Jacket",
+			"price": "227"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-12.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Oversized SUPREME Jacket",
+			"price": "579"
+		},
+		{
+			"type": "coat",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-13.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Plaid Yellow Fur Coat",
+			"price": "179"
+		},
+		{
+			"type": "jacket",
+			"imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-14.jpg?q=75&w=800&cbr=1&fit=max",
+			"altImg": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F08%2Fsupreme-fall-winter-2018-lookbook-15.jpg?q=75&w=800&cbr=1&fit=max",
+			"name": "Navy Green SUPREME Jacket",
+			"price": "157"
+		}
+	]
+}
